@@ -78,9 +78,7 @@ public class bankingShop {
                                             loggedInAccount.deposit(depositAmount);
                                             break;
                                         case 3:
-                                            System.out.print("Enter amount to withdraw: ");
-                                            float withdrawAmount = sc.nextFloat();
-                                            loggedInAccount.withdraw(withdrawAmount);
+                                            
                                             break;
                                         case 4:
                                             System.out.println("Logging out...");

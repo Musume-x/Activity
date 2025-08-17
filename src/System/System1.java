@@ -1,9 +1,9 @@
-package activity1;
+package System;
 
 import java.util.Scanner;
 import Banking.bankingShopping;
 
-public class bankingShop {
+public class System1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         bankingShopping[] bc = new bankingShopping[10];

@@ -1,10 +1,10 @@
-package activity1;
+package System;
 
 import java.util.Scanner;
 import Banking.kimBanking;
 
-public class bankings {
-    public static void main(String[] args) {
+public class System2 {
+     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("HELLO WELCOME TO THE SYSTEM!");
